@@ -1,0 +1,5 @@
+. 2020.3.34F1 versiyonu ile yapılmıştır.
+
+. E tuşu ısıgı acıp kapatmaktadır(alanına girdiğinde tetiklenecektir.)
+
+. T tuşu fps kamera ve tps kamera arasındaki geçişi sağlıyor.
